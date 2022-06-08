@@ -14,13 +14,9 @@ fasteners==0.14.1
 Flask==1.1.2
 future==0.18.2
 gunicorn==20.1.0
-gyp==0.1
-html5lib==1.1
-idna==2.10
 itsdangerous==1.1.0
 jeepney==0.6.0
 Jinja2==2.11.2
-kazam==1.4.5
 keyring==22.2.0
 lockfile==0.12.2
 louis==3.16.0
